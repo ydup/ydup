@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I'am Yadong Zhang. 
+
+Lately, I am working on the competition, [ENSO forecasting](https://tianchi.aliyun.com/competition/entrance/531871/introduction). 
+
+My webpage: http://yadongz.com/
+
+WeChat Official Account: [中文] 惊鸿的世界 [ID] glimpse-into
+
+![Scan Code]()
+
+Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
+
+
 <!--
 **ydup/ydup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
