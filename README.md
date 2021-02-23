@@ -9,10 +9,11 @@ I'm Yadong Zhang.
   + CV: http://yadongz.com/cv
   + Preprint paper: http://yadongz.com/publication
   + Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
+  + Linkin: https://www.linkedin.com/in/yadong-zhang/
 
-:rainbow: WeChat Official Account: [中文] 惊鸿的世界 [ID] glimpse-into. You can scan the following QR code with Wechat App to subscribe me.
+:rainbow: WeChat Official Account: [中文] 惊鸿的世界 [ID] glimpse-into. Scan the following QR code with Wechat App to subscribe me.
 
-![Scan Code](593x234_1605680749045.gif)
+![QR Code](593x234_1605680749045.gif)
 
 
 <!--
