@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Yadong Zhang. 
+I'm Yadong Zhang. 
 
 :fire: Lately, I'm working on the competition, [ENSO forecasting](https://tianchi.aliyun.com/competition/entrance/531871/introduction). 
 
