@@ -8,7 +8,7 @@ My webpage: http://yadongz.com/
 
 WeChat Official Account: [中文] 惊鸿的世界 [ID] glimpse-into
 
-![Scan Code]()
+![Scan Code](593x234_1605680749045.gif)
 
 Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
 
