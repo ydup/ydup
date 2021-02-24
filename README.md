@@ -15,18 +15,18 @@ I'm Yadong Zhang.
 
 ![QR Code](593x234_1605680749045.gif)
 
+---
 
-<!--
-**ydup/ydup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大家好，我是张亚东。
 
-Here are some ideas to get you started:
+:fire: 最近我正在参加阿里巴巴举办的"AI earth"[厄尔尼诺预测大赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction)。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:surfer: 个人主页: http://yadongz.com/
+  + 博客: http://yadongz.com/blog
+  + 简历: http://yadongz.com/cv
+  + 论文: http://yadongz.com/publication
+  + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
+  + 领英: https://www.linkedin.com/in/yadong-zhang/
+
+:rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 欢迎打开微信扫描上面二维码关注我，不定期更新__AI技术、互联网求职__等高质量内容。
+
