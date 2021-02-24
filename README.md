@@ -17,8 +17,6 @@ I'm Yadong Zhang.
 
 ---
 
-大家好，我是张亚东。
-
 :fire: 最近我正在参加阿里巴巴举办的"AI earth"[厄尔尼诺预测大赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction)。
 
 :surfer: 个人主页: http://yadongz.com/
@@ -28,5 +26,5 @@ I'm Yadong Zhang.
   + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + 领英: https://www.linkedin.com/in/yadong-zhang/
 
-:rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 欢迎打开微信扫描上面二维码关注我，不定期更新__AI技术、互联网求职__等高质量内容。
+:rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 欢迎打开微信扫描上面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。
 
