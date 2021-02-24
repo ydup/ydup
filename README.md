@@ -26,5 +26,7 @@ I'm Yadong Zhang.
   + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + 领英: https://www.linkedin.com/in/yadong-zhang/
 
-:rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 欢迎打开微信扫描上面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。
+:rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 
+
+欢迎打开微信扫描上面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选可以直接[点击这里](http://yadongz.com/blog)阅读。
 
