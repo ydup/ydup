@@ -13,8 +13,6 @@ I'm Yadong Zhang.
 
 :rainbow: WeChat Official Account: [中文] 惊鸿的世界 [ID] glimpse-into. Scan the following QR code with Wechat App to subscribe me.
 
-![QR Code](593x234_1605680749045.gif)
-
 ---
 
 :fire: 最近我正在参加阿里巴巴举办的"AI earth"[厄尔尼诺预测大赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction)。
@@ -28,5 +26,8 @@ I'm Yadong Zhang.
 
 :rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 
 
-欢迎打开微信扫描上面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选可以直接[点击这里](http://yadongz.com/blog)阅读。
+欢迎打开微信扫描下面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选可以直接[点击这里](http://yadongz.com/blog)快速阅读。
 
+<center>
+<img src="593x234_1605680749045.gif" alt="QR code" width="50%"/>
+</center>
