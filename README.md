@@ -6,7 +6,7 @@ I'm Yadong Zhang.
 
 :surfer: My webpage: http://yadongz.com/
   + Blog: http://yadongz.com/blog
-  + CV: http://yadongz.com/cv
+  + Resume: http://yadongz.com/cv
   + Preprint paper: http://yadongz.com/publication
   + Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + Linkin: https://www.linkedin.com/in/yadong-zhang/
