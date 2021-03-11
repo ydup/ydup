@@ -5,8 +5,8 @@ I'm Yadong Zhang.
 :fire: Lately, I'm working on the competition, [ENSO forecasting](https://tianchi.aliyun.com/competition/entrance/531871/introduction). 
 
 :surfer: My webpage: http://yadongz.com/
-  + Blog: http://yadongz.com/blog
-  + Resume: http://yadongz.com/cv
+  + Blog: http://yadongz.com/ [TODO]
+  + Resume:http://yadongz.com/2021/03/02/resume/
   + Preprint paper: http://yadongz.com/publication
   + Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + Linkin: https://www.linkedin.com/in/yadong-zhang/
@@ -18,8 +18,8 @@ I'm Yadong Zhang.
 :fire: 最近我正在参加阿里巴巴举办的"AI earth"[厄尔尼诺预测大赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction)。
 
 :surfer: 个人主页: http://yadongz.com/
-  + 博客: http://yadongz.com/blog
-  + 简历: http://yadongz.com/cv
+  + 博客: http://yadongz.com/ [迁移中]
+  + 简历: http://yadongz.com/2021/03/02/resume/
   + 论文: http://yadongz.com/publication
   + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + 领英: https://www.linkedin.com/in/yadong-zhang/
