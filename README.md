@@ -26,7 +26,7 @@ I'm Yadong Zhang.
 
 :rainbow: 微信公众号: [中文] 惊鸿的世界 [ID] glimpse-into. 
 
-欢迎打开微信扫描下面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。往期精选可以直接[点击这里](http://yadongz.com/blog)快速阅读。
+欢迎打开微信扫描下面二维码关注我，不定期更新 __AI技术、互联网求职__ 等高质量内容。
 
 <center>
 <img src="593x234_1605680749045.gif" alt="QR code" width="50%"/>
