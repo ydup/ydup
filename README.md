@@ -6,7 +6,7 @@ I'm Yadong Zhang.
 
 :surfer: My webpage: http://yadongz.com/
   + Blog: http://yadongz.com/ [TODO]
-  + Resume:http://yadongz.com/2021/03/02/resume/
+  + Resume: http://yadongz.com/me/
   + Zhihu: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + Linkin: https://www.linkedin.com/in/yadong-zhang/
 
@@ -18,7 +18,7 @@ I'm Yadong Zhang.
 
 :surfer: 个人主页: http://yadongz.com/
   + 博客: http://yadongz.com/ [迁移中]
-  + 简历: http://yadongz.com/2021/03/02/resume/
+  + 简历: http://yadongz.com/me/
   + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + 领英: https://www.linkedin.com/in/yadong-zhang/
 
