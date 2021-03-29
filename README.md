@@ -18,7 +18,7 @@ I'm Yadong Zhang.
 
 :surfer: 个人主页: http://yadongz.com/
   + 博客: http://yadongz.com/ [迁移中]
-  + 简历: http://yadongz.com/me/
+  + 简历: http://yadongz.com/me-cn/
   + 知乎: [中文] 惊鸿 [ID] https://www.zhihu.com/people/KeySeeking
   + 领英: https://www.linkedin.com/in/yadong-zhang/
 
