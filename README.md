@@ -2,8 +2,6 @@
 
 I'm Yadong Zhang. 
 
-:fire: Lately, I'm working on the competition, [ENSO forecasting](https://tianchi.aliyun.com/competition/entrance/531871/introduction). 
-
 :surfer: My webpage: http://yadongz.com/
   + Blog: http://yadongz.com/ [TODO]
   + Resume: http://yadongz.com/me/
@@ -13,8 +11,6 @@ I'm Yadong Zhang.
 :rainbow: WeChat Official Account: [中文] 亚东的小黑板 [ID] yadong-blackboard. Scan the following QR code with Wechat App to subscribe me.
 
 ---
-
-:fire: 最近我正在参加阿里巴巴举办的"AI earth"[厄尔尼诺预测大赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction)。
 
 :surfer: 个人主页: http://yadongz.com/
   + 博客: http://yadongz.com/ [迁移中]
